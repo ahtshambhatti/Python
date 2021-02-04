@@ -1,3 +1,6 @@
+body{
+	background-color:ghostwhite !important;
+}
 .logout
 {
 	margin-top: 25px;
@@ -86,9 +89,9 @@ footer
 	background-color: silver;
 	height: 70px;
 }
-footer h1
+footer p
 {
-	padding: 15px 10px;
+	padding: 10px 10px;
 	text-align: center;
 	font-weight: bolder;
 	color: red;
