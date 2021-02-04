@@ -1,0 +1,95 @@
+.logout
+{
+	margin-top: 25px;
+}
+.logout a
+{
+	color: gray;
+	text-decoration: none;
+	font-weight: bolder;
+	padding: 10px;
+}
+.logout a:hover
+{
+	background-color:white;
+	text-decoration: none;
+	border-radius: 12px;
+	cursor: pointer;
+}
+.belo
+{
+	/* border:0.5px solid silver; */
+	/* background-color:yellowgreen; */
+}
+.sidebar
+{
+	/* border:0.5px solid silver; */
+	padding: 10px;
+}
+.imgbox
+{
+	margin-top: 10px;
+	padding: 30px;
+}
+.imgbox img
+{
+	width: 100%;
+	box-shadow: 1px 0px 25px 2px chocolate;
+}
+.imgbox button
+{
+	margin-left: 10px;
+}
+.menu
+{
+	/*background-color: olive;*/
+	/*margin-left: -10px;*/
+}
+.menu ul li
+{
+	list-style: none;
+	cursor: pointer;
+	padding: 5px;
+	border-bottom:1px solid silver;
+}
+.menu ul li a
+{
+	text-decoration: none;
+	color: gray;
+	font-size: 15px;
+	font-weight: bold;
+}
+.menu ul li:hover
+{
+	font-size: 17px;
+	font-weight: bolder;
+	background-color: silver;
+}
+/*.col-lg-4.col-md-6.col-sm-12.text-center
+{
+}
+*/
+.col-lg-4.col-md-6.col-sm-12.text-center img
+{
+	height: 170px;
+}
+.thumbnail
+{
+	padding: 7px !important;
+}
+.caption
+{
+	font-weight: bold;
+}
+footer
+{
+	background-color: silver;
+	height: 70px;
+}
+footer h1
+{
+	padding: 15px 10px;
+	text-align: center;
+	font-weight: bolder;
+	color: red;
+}
