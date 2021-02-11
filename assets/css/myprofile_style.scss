@@ -1,7 +1,9 @@
 $color:red;
 ul{
-    font-size: larger;
-    color: $color;
+    li{
+        font-size: larger;
+        color: $color;    
+    }
 }
 ol{
     font-size: 20px;
