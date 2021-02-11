@@ -1,6 +1,7 @@
 ul li {
   font-size: larger;
   color: red;
+  font-weight: bolder;
 }
 
 ol {
