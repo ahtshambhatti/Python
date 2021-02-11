@@ -19,11 +19,11 @@ body{
 	border-radius: 12px;
 	cursor: pointer;
 }
-/* .belo
-{
+/* .belo */
+/* { */
 	/* border:0.5px solid silver; */
 	/* background-color:yellowgreen; */
-} */
+/* } */
 .sidebar
 {
 	/* border:0.5px solid silver; */
@@ -43,11 +43,11 @@ body{
 {
 	margin-left: 10px;
 }
-/* .menu
-{
+/* .menu */
+/* { */
 	/*background-color: olive;*/
 	/*margin-left: -10px;*/
-} */
+/* } */
 .menu ul li
 {
 	list-style: none;
